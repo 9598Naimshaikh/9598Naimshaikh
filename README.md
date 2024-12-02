@@ -1,6 +1,6 @@
 <h1 align="center">🤡Hi👋, I'm Naim Shaikh🤡</h1>
 <h3 align="center">I'm a passionate Python and Web Developer from India</h3>
-<img align="right alt="Coding image" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding image" width="400" src="https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif">
 
 - 🌱 I’m currently learning **`React`**, **`Backend`**
 
