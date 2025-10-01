@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **nn9412466@gmail.com**
 
-- ⚡ Fun fact **📍I think, I am serious & Funny**
+- ⚡ Fun fact ⌨️ I talk to my code... sometimes it talks back
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
